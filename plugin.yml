@@ -1,7 +1,7 @@
-name: trollSmp
+name: MinecraftMapRecorder
 version: 1.0
 author: Lainad27
-main: me.lainad27.trollSmp.Main
+main: me.lainad27.MinecraftMapRecorder.Main
 api-version: 1.16
 
 commands:
