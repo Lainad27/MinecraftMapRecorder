@@ -1,0 +1,9 @@
+name: trollSmp
+version: 1.0
+author: Lainad27
+main: me.lainad27.trollSmp.Main
+api-version: 1.16
+
+commands:
+  leak:
+    description: make map from cords
